@@ -33,7 +33,7 @@ I performed OLS Regression using StatsModels and eliminated features that had an
 3) `merge_budget.ipynb` & `merge_all.ipynb` sets up the scraped data for analysis
 4) `movies_lin_reg.ipynb` is the code that actually analyzed the data
 
-The project **blog post** can be found [here](). The project presentation can be found [here] (https://www.slideshare.net/MarineVeits/metis-project-2-predicting-worldwide-gross-jungleboogie).
+The project **blog post** can be found [here](). The project presentation can be found [here](https://www.slideshare.net/MarineVeits/metis-project-2-predicting-worldwide-gross-jungleboogie)
 
 
 
