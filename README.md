@@ -1,3 +1,11 @@
 # JungleBoogie
 Project Luther: Linear Regression Metis
-https://docs.google.com/presentation/d/1AlkwBDOg501VwypAhbJNiu9w6ljJt1xiF6jvu7Ks26Y/edit#slide=id.gcb9a0b074_1_0
+
+
+Project_Scraping is the code used to scrape the data from Box Office Mojo
+Cleaning_Movie_DF sets up the scraped data for analysis
+Project_Analysis is the code that actually analyzed the data
+
+Find the slideshow:
+https://www.slideshare.net/MarineVeits/metis-project-2-predicting-worldwide-gross-jungleboogie
+
